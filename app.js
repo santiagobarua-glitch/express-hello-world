@@ -54,7 +54,10 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Hello from GM2DEV!
+      <div>
+        <p>Hola en espanol!</p>
+      </div>
     </section>
   </body>
 </html>
